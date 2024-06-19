@@ -1,0 +1,26 @@
+{
+  "id": "Module1/quiz",
+  "title": "Industrial Revolution Quiz",
+  "description": "Create a doc page with rich content.",
+  "source": "@site/docs/Module1/quiz.md",
+  "sourceDirName": "Module1",
+  "slug": "/Module1/quiz",
+  "permalink": "/IEC61499-Curriculum/docs/Module1/quiz",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module1/quiz.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Create a doc page with rich content."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Presentation",
+    "permalink": "/IEC61499-Curriculum/docs/Module1/presentation"
+  },
+  "next": {
+    "title": "Module 2",
+    "permalink": "/IEC61499-Curriculum/docs/category/module-2"
+  }
+}
