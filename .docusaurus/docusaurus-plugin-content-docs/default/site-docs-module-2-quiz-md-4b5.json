@@ -5,7 +5,7 @@
   "source": "@site/docs/Module2/quiz.md",
   "sourceDirName": "Module2",
   "slug": "/Module2/quiz",
-  "permalink": "/IEC61499-Curriculum/docs/Module2/quiz",
+  "permalink": "/IEC61499-Curriculum/fr/docs/Module2/quiz",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module2/quiz.md",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Presentation",
-    "permalink": "/IEC61499-Curriculum/docs/Module2/presentation"
+    "permalink": "/IEC61499-Curriculum/fr/docs/Module2/presentation"
   }
 }

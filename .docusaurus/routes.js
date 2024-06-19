@@ -3,101 +3,66 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/IEC61499-Curriculum/__docusaurus/debug',
-    component: ComponentCreator('/IEC61499-Curriculum/__docusaurus/debug', '05e'),
+    path: '/IEC61499-Curriculum/fr/markdown-page',
+    component: ComponentCreator('/IEC61499-Curriculum/fr/markdown-page', '118'),
     exact: true
   },
   {
-    path: '/IEC61499-Curriculum/__docusaurus/debug/config',
-    component: ComponentCreator('/IEC61499-Curriculum/__docusaurus/debug/config', '769'),
+    path: '/IEC61499-Curriculum/fr/my-react-page',
+    component: ComponentCreator('/IEC61499-Curriculum/fr/my-react-page', 'bd9'),
     exact: true
   },
   {
-    path: '/IEC61499-Curriculum/__docusaurus/debug/content',
-    component: ComponentCreator('/IEC61499-Curriculum/__docusaurus/debug/content', '8b8'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/__docusaurus/debug/globalData',
-    component: ComponentCreator('/IEC61499-Curriculum/__docusaurus/debug/globalData', '753'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/__docusaurus/debug/metadata',
-    component: ComponentCreator('/IEC61499-Curriculum/__docusaurus/debug/metadata', '20e'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/__docusaurus/debug/registry',
-    component: ComponentCreator('/IEC61499-Curriculum/__docusaurus/debug/registry', 'a06'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/__docusaurus/debug/routes',
-    component: ComponentCreator('/IEC61499-Curriculum/__docusaurus/debug/routes', '110'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/markdown-page',
-    component: ComponentCreator('/IEC61499-Curriculum/markdown-page', '75b'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/my-react-page',
-    component: ComponentCreator('/IEC61499-Curriculum/my-react-page', '9d4'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/docs',
-    component: ComponentCreator('/IEC61499-Curriculum/docs', '120'),
+    path: '/IEC61499-Curriculum/fr/docs',
+    component: ComponentCreator('/IEC61499-Curriculum/fr/docs', '086'),
     routes: [
       {
-        path: '/IEC61499-Curriculum/docs',
-        component: ComponentCreator('/IEC61499-Curriculum/docs', '9eb'),
+        path: '/IEC61499-Curriculum/fr/docs',
+        component: ComponentCreator('/IEC61499-Curriculum/fr/docs', 'e39'),
         routes: [
           {
-            path: '/IEC61499-Curriculum/docs',
-            component: ComponentCreator('/IEC61499-Curriculum/docs', '1d1'),
+            path: '/IEC61499-Curriculum/fr/docs',
+            component: ComponentCreator('/IEC61499-Curriculum/fr/docs', '26c'),
             routes: [
               {
-                path: '/IEC61499-Curriculum/docs/category/module-1',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/category/module-1', '15e'),
+                path: '/IEC61499-Curriculum/fr/docs/category/module-1',
+                component: ComponentCreator('/IEC61499-Curriculum/fr/docs/category/module-1', '195'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/category/module-2',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/category/module-2', 'ca7'),
+                path: '/IEC61499-Curriculum/fr/docs/category/module-2',
+                component: ComponentCreator('/IEC61499-Curriculum/fr/docs/category/module-2', '36d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/intro',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/intro', '870'),
+                path: '/IEC61499-Curriculum/fr/docs/intro',
+                component: ComponentCreator('/IEC61499-Curriculum/fr/docs/intro', '5af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module1/presentation',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module1/presentation', 'f48'),
+                path: '/IEC61499-Curriculum/fr/docs/Module1/presentation',
+                component: ComponentCreator('/IEC61499-Curriculum/fr/docs/Module1/presentation', 'df6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module1/quiz',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module1/quiz', 'c5b'),
+                path: '/IEC61499-Curriculum/fr/docs/Module1/quiz',
+                component: ComponentCreator('/IEC61499-Curriculum/fr/docs/Module1/quiz', '66a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module2/presentation',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module2/presentation', '159'),
+                path: '/IEC61499-Curriculum/fr/docs/Module2/presentation',
+                component: ComponentCreator('/IEC61499-Curriculum/fr/docs/Module2/presentation', 'd8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module2/quiz',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module2/quiz', '406'),
+                path: '/IEC61499-Curriculum/fr/docs/Module2/quiz',
+                component: ComponentCreator('/IEC61499-Curriculum/fr/docs/Module2/quiz', '85f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -108,8 +73,8 @@ export default [
     ]
   },
   {
-    path: '/IEC61499-Curriculum/',
-    component: ComponentCreator('/IEC61499-Curriculum/', 'fe8'),
+    path: '/IEC61499-Curriculum/fr/',
+    component: ComponentCreator('/IEC61499-Curriculum/fr/', '3d7'),
     exact: true
   },
   {

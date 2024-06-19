@@ -8,7 +8,7 @@ export default {
   "tagline": "Building the Future of Automation",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
-  "baseUrl": "/IEC61499-Curriculum/",
+  "baseUrl": "/IEC61499-Curriculum/fr/",
   "organizationName": "LTU Sweden",
   "projectName": "IEC61499-Curriculum",
   "deploymentBranch": "gh-pages",
