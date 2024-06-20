@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "LTU Sweden", // Usually your GitHub org/user name.
+  organizationName: "AIC3Lab", // Usually your GitHub org/user name.
   projectName: "IEC61499-Curriculum", // Usually your repo name.
   deploymentBranch: "gh-pages",
 

@@ -5,7 +5,7 @@
   "source": "@site/docs/Module1/presentation.md",
   "sourceDirName": "Module1",
   "slug": "/Module1/presentation",
-  "permalink": "/IEC61499-Curriculum/fr/docs/Module1/presentation",
+  "permalink": "/IEC61499-Curriculum/docs/Module1/presentation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module1/presentation.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 1",
-    "permalink": "/IEC61499-Curriculum/fr/docs/category/module-1"
+    "permalink": "/IEC61499-Curriculum/docs/category/module-1"
   },
   "next": {
     "title": "Industrial Revolution Quiz",
-    "permalink": "/IEC61499-Curriculum/fr/docs/Module1/quiz"
+    "permalink": "/IEC61499-Curriculum/docs/Module1/quiz"
   }
 }
