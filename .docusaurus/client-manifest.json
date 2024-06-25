@@ -264,9 +264,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.73ab12ec.js",
-          "hash": "c175f860cbd4c28a",
-          "publicPath": "/IEC61499-Curriculum/fr/assets/js/main.73ab12ec.js"
+          "file": "assets/js/main.df44c9bd.js",
+          "hash": "7b907366a60df3d4",
+          "publicPath": "/IEC61499-Curriculum/fr/assets/js/main.df44c9bd.js"
         }
       ]
     },
@@ -301,7 +301,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.64360745.js",
-          "hash": "ade2aedd171d882d",
+          "hash": "079a4825d4c81bef",
           "publicPath": "/IEC61499-Curriculum/fr/assets/js/runtime~main.64360745.js"
         }
       ]

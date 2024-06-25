@@ -38,16 +38,6 @@ export default [
     exact: true
   },
   {
-    path: '/IEC61499-Curriculum/markdown-page',
-    component: ComponentCreator('/IEC61499-Curriculum/markdown-page', '75b'),
-    exact: true
-  },
-  {
-    path: '/IEC61499-Curriculum/my-react-page',
-    component: ComponentCreator('/IEC61499-Curriculum/my-react-page', '9d4'),
-    exact: true
-  },
-  {
     path: '/IEC61499-Curriculum/docs',
     component: ComponentCreator('/IEC61499-Curriculum/docs', '120'),
     routes: [

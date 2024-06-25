@@ -42,20 +42,6 @@
       "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
     }
   },
-  "/IEC61499-Curriculum/markdown-page-75b": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---iec-61499-curriculum-markdown-pagea-74-175"
-    },
-    "content": "content---iec-61499-curriculum-markdown-page-393-205"
-  },
-  "/IEC61499-Curriculum/my-react-page-9d4": {
-    "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
-    "__context": {
-      "plugin": "plugin---iec-61499-curriculum-markdown-pagea-74-175"
-    },
-    "config": "config---iec-61499-curriculum-my-react-page-5-e-9-50b"
-  },
   "/IEC61499-Curriculum/docs-120": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
@@ -100,8 +86,8 @@
   "/IEC61499-Curriculum/-fe8": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---iec-61499-curriculum-markdown-pagea-74-175"
+      "plugin": "plugin---iec-61499-curriculum-a-74-7c2"
     },
-    "config": "config---iec-61499-curriculum-my-react-page-5-e-9-50b"
+    "config": "config---iec-61499-curriculum-5-e-9-599"
   }
 }
