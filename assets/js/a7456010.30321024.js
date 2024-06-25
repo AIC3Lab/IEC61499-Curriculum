@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiec_61499_curriculum=self.webpackChunkiec_61499_curriculum||[]).push([[235],{8552:u=>{u.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
