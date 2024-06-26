@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiec_61499_curriculum=self.webpackChunkiec_61499_curriculum||[]).push([[647],{7121:(e,r,u)=>{u.r(r),u.d(r,{default:()=>t});u(6540);var c=u(4164),s=u(1003),a=u(7559),i=u(2831),l=u(781),n=u(4848);function t(e){return(0,n.jsx)(s.e3,{className:(0,c.A)(a.G.wrapper.docsPages),children:(0,n.jsx)(l.A,{children:(0,i.v)(e.route.routes)})})}}}]);
