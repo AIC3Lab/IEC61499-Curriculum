@@ -1,0 +1,27 @@
+{
+  "id": "Module3/Lectures/video6",
+  "title": "The Composite Automation Type (CAT) in IEC 61499",
+  "description": "",
+  "source": "@site/docs/Module3/Lectures/video6.md",
+  "sourceDirName": "Module3/Lectures",
+  "slug": "/Module3/Lectures/video6",
+  "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module3/Lectures/video6.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TBD",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video5"
+  },
+  "next": {
+    "title": "The Event Function Blocks in IEC 61499",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video7"
+  }
+}

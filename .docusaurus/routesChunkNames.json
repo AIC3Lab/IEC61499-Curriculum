@@ -1,0 +1,145 @@
+{
+  "/IEC61499-Curriculum/__docusaurus/debug-05e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
+    }
+  },
+  "/IEC61499-Curriculum/__docusaurus/debug/config-769": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
+    }
+  },
+  "/IEC61499-Curriculum/__docusaurus/debug/content-8b8": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
+    },
+    "__props": "__props---iec-61499-curriculum-docusaurus-debug-contentb-8-a-cb4"
+  },
+  "/IEC61499-Curriculum/__docusaurus/debug/globalData-753": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
+    }
+  },
+  "/IEC61499-Curriculum/__docusaurus/debug/metadata-20e": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
+    }
+  },
+  "/IEC61499-Curriculum/__docusaurus/debug/registry-a06": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
+    }
+  },
+  "/IEC61499-Curriculum/__docusaurus/debug/routes-110": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docusaurus-debugb-38-9bf"
+    }
+  },
+  "/IEC61499-Curriculum/docs-943": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-docsaba-c1b"
+    }
+  },
+  "/IEC61499-Curriculum/docs-bfd": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---iec-61499-curriculum-docs-30-f-ed5"
+  },
+  "/IEC61499-Curriculum/docs-233": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/IEC61499-Curriculum/docs/category/lectures-338": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---iec-61499-curriculum-docs-category-lectures-82-c-e20"
+  },
+  "/IEC61499-Curriculum/docs/category/module-1-15e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---iec-61499-curriculum-docs-category-module-17-d-3-220"
+  },
+  "/IEC61499-Curriculum/docs/category/module-2-ca7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---iec-61499-curriculum-docs-category-module-2-cd-0-d86"
+  },
+  "/IEC61499-Curriculum/docs/category/module-3-d67": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---iec-61499-curriculum-docs-category-module-38-b-9-186"
+  },
+  "/IEC61499-Curriculum/docs/intro-870": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-intro-0-e-3-8d1"
+  },
+  "/IEC61499-Curriculum/docs/Module1/presentation-f48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-1-presentation-2-f-4-0b7"
+  },
+  "/IEC61499-Curriculum/docs/Module1/quiz-c5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-1-quizaaf-ad0"
+  },
+  "/IEC61499-Curriculum/docs/Module2/presentation-159": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-2-presentationda-5-36b"
+  },
+  "/IEC61499-Curriculum/docs/Module2/quiz-406": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-2-quiz-4-b-5-d1c"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lab-9dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lab-678-a6b"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/pptx-312": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-pptxdd-9-df7"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video0-eef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-0-c-4-e-d9b"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video1-fd6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-1-aaf-5f9"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video2-ce9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-24-c-5-685"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video3-b48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-3-d-0-b-bf9"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video4-220": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-4-a-8-b-e5e"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video5-45e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-52-a-5-54d"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video6-697": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-68-ff-091"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Lectures/video7-1d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-lectures-video-7851-75a"
+  },
+  "/IEC61499-Curriculum/docs/Module3/Task-a67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---iec-61499-curriculum-docs-module-3-taska-8-a-895"
+  },
+  "/IEC61499-Curriculum/-fe8": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---iec-61499-curriculum-a-74-7c2"
+    },
+    "config": "config---iec-61499-curriculum-5-e-9-599"
+  }
+}

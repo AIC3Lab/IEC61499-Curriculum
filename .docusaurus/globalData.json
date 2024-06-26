@@ -1,0 +1,128 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/IEC61499-Curriculum/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/IEC61499-Curriculum/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/IEC61499-Curriculum/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/presentation",
+              "path": "/IEC61499-Curriculum/docs/Module1/presentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/quiz",
+              "path": "/IEC61499-Curriculum/docs/Module1/quiz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module2/presentation",
+              "path": "/IEC61499-Curriculum/docs/Module2/presentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module2/quiz",
+              "path": "/IEC61499-Curriculum/docs/Module2/quiz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lab",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/pptx",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/pptx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video0",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video1",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video2",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video3",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video4",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video5",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video6",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lectures/video7",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lectures/video7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Task",
+              "path": "/IEC61499-Curriculum/docs/Module3/Task",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-1",
+              "path": "/IEC61499-Curriculum/docs/category/module-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-2",
+              "path": "/IEC61499-Curriculum/docs/category/module-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-3",
+              "path": "/IEC61499-Curriculum/docs/category/module-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lectures",
+              "path": "/IEC61499-Curriculum/docs/category/lectures",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/IEC61499-Curriculum/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

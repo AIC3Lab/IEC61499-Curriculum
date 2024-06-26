@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Tutorial Intro",
+  "description": "",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/IEC61499-Curriculum/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Module 1",
+    "permalink": "/IEC61499-Curriculum/docs/category/module-1"
+  }
+}

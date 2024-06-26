@@ -1,0 +1,27 @@
+{
+  "id": "Module3/Lectures/video0",
+  "title": "Running the FLASHER example",
+  "description": "",
+  "source": "@site/docs/Module3/Lectures/video0.md",
+  "sourceDirName": "Module3/Lectures",
+  "slug": "/Module3/Lectures/video0",
+  "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video0",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module3/Lectures/video0.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IEC 61499: Primer Course",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/pptx"
+  },
+  "next": {
+    "title": "Introduction to the standard of IEC 61499",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video1"
+  }
+}

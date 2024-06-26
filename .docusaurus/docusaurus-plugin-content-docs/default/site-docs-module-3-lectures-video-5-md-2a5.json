@@ -1,0 +1,27 @@
+{
+  "id": "Module3/Lectures/video5",
+  "title": "TBD",
+  "description": "",
+  "source": "@site/docs/Module3/Lectures/video5.md",
+  "sourceDirName": "Module3/Lectures",
+  "slug": "/Module3/Lectures/video5",
+  "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module3/Lectures/video5.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Service Interface Function Block (SIFB) in IEC 61499",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video4"
+  },
+  "next": {
+    "title": "The Composite Automation Type (CAT) in IEC 61499",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video6"
+  }
+}

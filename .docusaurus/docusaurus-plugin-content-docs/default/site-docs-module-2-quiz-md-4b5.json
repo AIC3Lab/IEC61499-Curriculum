@@ -1,0 +1,26 @@
+{
+  "id": "Module2/quiz",
+  "title": "Industrial Revolution Quiz",
+  "description": "Create a doc page with rich content.",
+  "source": "@site/docs/Module2/quiz.md",
+  "sourceDirName": "Module2",
+  "slug": "/Module2/quiz",
+  "permalink": "/IEC61499-Curriculum/docs/Module2/quiz",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module2/quiz.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Create a doc page with rich content."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Presentation",
+    "permalink": "/IEC61499-Curriculum/docs/Module2/presentation"
+  },
+  "next": {
+    "title": "Module 3",
+    "permalink": "/IEC61499-Curriculum/docs/category/module-3"
+  }
+}

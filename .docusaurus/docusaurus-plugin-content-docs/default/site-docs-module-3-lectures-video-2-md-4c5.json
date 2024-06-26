@@ -1,0 +1,27 @@
+{
+  "id": "Module3/Lectures/video2",
+  "title": "The Basic Function Block in IEC 61499",
+  "description": "",
+  "source": "@site/docs/Module3/Lectures/video2.md",
+  "sourceDirName": "Module3/Lectures",
+  "slug": "/Module3/Lectures/video2",
+  "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module3/Lectures/video2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to the standard of IEC 61499",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video1"
+  },
+  "next": {
+    "title": "The Composite Function Block (CFB) in IEC 61499",
+    "permalink": "/IEC61499-Curriculum/docs/Module3/Lectures/video3"
+  }
+}
