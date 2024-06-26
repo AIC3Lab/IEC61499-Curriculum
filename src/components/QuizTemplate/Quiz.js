@@ -6,15 +6,15 @@ export default function Quiz({ questions }) {
   const [showResults, setShowResults] = useState(false);
   const [score, setScore] = useState(0);
 
-  const handleAnswerOptionClick = (questionIndex, isCorrect) => {
+  const handleAnswerOptionClick = (questionIndex, isCorrect, answerIndex) => {
     const newAnswers = [...answers];
-    newAnswers[questionIndex] = isCorrect
-      ? "right"
-      : `wrong, correct answer is ${
-          questions[questionIndex].answerOptions.find(
-            (option) => option.isCorrect
-          ).answerText
-        }`;
+    newAnswers[questionIndex] = {
+      isCorrect,
+      selectedAnswerIndex: answerIndex,
+      correctAnswerIndex: questions[questionIndex].answerOptions.findIndex(
+        (option) => option.isCorrect
+      ),
+    };
     setAnswers(newAnswers);
 
     if (isCorrect) {
@@ -39,17 +39,29 @@ export default function Quiz({ questions }) {
               <button
                 key={index}
                 onClick={() =>
-                  handleAnswerOptionClick(questionIndex, answerOption.isCorrect)
+                  handleAnswerOptionClick(
+                    questionIndex,
+                    answerOption.isCorrect,
+                    index
+                  )
                 }
                 disabled={answers[questionIndex] !== null}
+                className={
+                  answers[questionIndex]
+                    ? index === answers[questionIndex].selectedAnswerIndex
+                      ? answers[questionIndex].isCorrect
+                        ? "correct"
+                        : "incorrect"
+                      : index === answers[questionIndex].correctAnswerIndex
+                      ? "correct"
+                      : ""
+                    : ""
+                }
               >
                 {answerOption.answerText}
               </button>
             ))}
           </div>
-          {answers[questionIndex] && (
-            <div className="feedback-section">{answers[questionIndex]}</div>
-          )}
         </div>
       ))}
       {!showResults && (

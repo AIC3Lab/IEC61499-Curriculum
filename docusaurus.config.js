@@ -44,8 +44,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/AIC3Lab/IEC61499-Curriculum",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -74,7 +73,7 @@ const config = {
           },
 
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/AIC3Lab/IEC61499-Curriculum",
             label: "GitHub",
             position: "right",
           },
@@ -118,7 +117,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/AIC3/IEC61499-Curriculum",
+                href: "https://github.com/AIC3Lab/IEC61499-Curriculum",
               },
             ],
           },
