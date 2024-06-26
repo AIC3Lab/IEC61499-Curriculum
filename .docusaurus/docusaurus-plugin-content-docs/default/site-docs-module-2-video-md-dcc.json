@@ -1,0 +1,27 @@
+{
+  "id": "Module2/video",
+  "title": "TBD",
+  "description": "",
+  "source": "@site/docs/Module2/video.md",
+  "sourceDirName": "Module2",
+  "slug": "/Module2/video",
+  "permalink": "/IEC61499-Curriculum/docs/Module2/video",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module2/video.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TBD",
+    "permalink": "/IEC61499-Curriculum/docs/Module2/quiz"
+  },
+  "next": {
+    "title": "Module 3",
+    "permalink": "/IEC61499-Curriculum/docs/category/module-3"
+  }
+}

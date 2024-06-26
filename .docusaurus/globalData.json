@@ -8,16 +8,21 @@
           "label": "Next",
           "isLast": true,
           "path": "/IEC61499-Curriculum/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Module0/video",
           "docs": [
             {
-              "id": "intro",
-              "path": "/IEC61499-Curriculum/docs/intro",
+              "id": "Module0/pptx",
+              "path": "/IEC61499-Curriculum/docs/Module0/pptx",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Module1/presentation",
-              "path": "/IEC61499-Curriculum/docs/Module1/presentation",
+              "id": "Module0/video",
+              "path": "/IEC61499-Curriculum/docs/Module0/video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module1/pptx",
+              "path": "/IEC61499-Curriculum/docs/Module1/pptx",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -26,8 +31,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Module2/presentation",
-              "path": "/IEC61499-Curriculum/docs/Module2/presentation",
+              "id": "Module1/video",
+              "path": "/IEC61499-Curriculum/docs/Module1/video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module2/pptx",
+              "path": "/IEC61499-Curriculum/docs/Module2/pptx",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -36,8 +46,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Module3/Lab",
-              "path": "/IEC61499-Curriculum/docs/Module3/Lab",
+              "id": "Module2/video",
+              "path": "/IEC61499-Curriculum/docs/Module2/video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module3/Lab/HandsOnLab1",
+              "path": "/IEC61499-Curriculum/docs/Module3/Lab/HandsOnLab1",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -86,8 +101,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Module3/Task",
-              "path": "/IEC61499-Curriculum/docs/Module3/Task",
+              "id": "Module3/Task/Task1",
+              "path": "/IEC61499-Curriculum/docs/Module3/Task/Task1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-0",
+              "path": "/IEC61499-Curriculum/docs/category/module-0",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -109,14 +129,24 @@
               "id": "/category/lectures",
               "path": "/IEC61499-Curriculum/docs/category/lectures",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lab",
+              "path": "/IEC61499-Curriculum/docs/category/lab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/task",
+              "path": "/IEC61499-Curriculum/docs/category/task",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/IEC61499-Curriculum/docs/intro",
-                "label": "intro"
+                "path": "/IEC61499-Curriculum/docs/category/module-0",
+                "label": "Module 0"
               }
             }
           }

@@ -1,7 +1,7 @@
 {
   "id": "Module1/presentation",
   "title": "Presentation",
-  "description": "See the PowerPoint presentation",
+  "description": "",
   "source": "@site/docs/Module1/presentation.md",
   "sourceDirName": "Module1",
   "slug": "/Module1/presentation",

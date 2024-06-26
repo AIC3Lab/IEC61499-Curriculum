@@ -1,0 +1,27 @@
+{
+  "id": "Module1/video",
+  "title": "TBD",
+  "description": "",
+  "source": "@site/docs/Module1/video.md",
+  "sourceDirName": "Module1",
+  "slug": "/Module1/video",
+  "permalink": "/IEC61499-Curriculum/docs/Module1/video",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module1/video.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Industrial Revolution Quiz",
+    "permalink": "/IEC61499-Curriculum/docs/Module1/quiz"
+  },
+  "next": {
+    "title": "Module 2",
+    "permalink": "/IEC61499-Curriculum/docs/category/module-2"
+  }
+}

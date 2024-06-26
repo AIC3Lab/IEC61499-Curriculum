@@ -1,7 +1,7 @@
 {
   "id": "Module1/quiz",
   "title": "Industrial Revolution Quiz",
-  "description": "Create a doc page with rich content.",
+  "description": "",
   "source": "@site/docs/Module1/quiz.md",
   "sourceDirName": "Module1",
   "slug": "/Module1/quiz",
@@ -11,16 +11,17 @@
   "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module1/quiz.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 2,
   "frontMatter": {
-    "description": "Create a doc page with rich content."
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Presentation",
-    "permalink": "/IEC61499-Curriculum/docs/Module1/presentation"
+    "title": "Software for industrial automation",
+    "permalink": "/IEC61499-Curriculum/docs/Module1/pptx"
   },
   "next": {
-    "title": "Module 2",
-    "permalink": "/IEC61499-Curriculum/docs/category/module-2"
+    "title": "TBD",
+    "permalink": "/IEC61499-Curriculum/docs/Module1/video"
   }
 }

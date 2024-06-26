@@ -1,0 +1,27 @@
+{
+  "id": "Module1/pptx",
+  "title": "Software for industrial automation",
+  "description": "",
+  "source": "@site/docs/Module1/pptx.md",
+  "sourceDirName": "Module1",
+  "slug": "/Module1/pptx",
+  "permalink": "/IEC61499-Curriculum/docs/Module1/pptx",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module1/pptx.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1",
+    "permalink": "/IEC61499-Curriculum/docs/category/module-1"
+  },
+  "next": {
+    "title": "Industrial Revolution Quiz",
+    "permalink": "/IEC61499-Curriculum/docs/Module1/quiz"
+  }
+}

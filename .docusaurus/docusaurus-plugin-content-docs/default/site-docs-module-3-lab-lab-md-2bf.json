@@ -1,0 +1,27 @@
+{
+  "id": "Module3/Lab/Lab",
+  "title": "Lab",
+  "description": "",
+  "source": "@site/docs/Module3/Lab/Lab.md",
+  "sourceDirName": "Module3/Lab",
+  "slug": "/Module3/Lab/",
+  "permalink": "/IEC61499-Curriculum/docs/Module3/Lab/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module3/Lab/Lab.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab",
+    "permalink": "/IEC61499-Curriculum/docs/category/lab"
+  },
+  "next": {
+    "title": "Task",
+    "permalink": "/IEC61499-Curriculum/docs/category/task"
+  }
+}

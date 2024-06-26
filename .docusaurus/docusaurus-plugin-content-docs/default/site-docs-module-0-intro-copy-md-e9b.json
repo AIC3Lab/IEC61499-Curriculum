@@ -1,0 +1,27 @@
+{
+  "id": "Module0/intro copy",
+  "title": "Tutorial Intro",
+  "description": "",
+  "source": "@site/docs/Module0/intro copy.md",
+  "sourceDirName": "Module0",
+  "slug": "/Module0/intro copy",
+  "permalink": "/IEC61499-Curriculum/docs/Module0/intro copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module0/intro copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 0",
+    "permalink": "/IEC61499-Curriculum/docs/category/module-0"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/IEC61499-Curriculum/docs/Module0/intro"
+  }
+}

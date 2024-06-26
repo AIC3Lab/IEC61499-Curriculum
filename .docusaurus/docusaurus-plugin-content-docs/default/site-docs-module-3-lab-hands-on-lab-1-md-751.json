@@ -1,0 +1,27 @@
+{
+  "id": "Module3/Lab/HandsOnLab1",
+  "title": "Hands on Lab 1: Learning IEC 61499 and EcoStruxure Automation Expert",
+  "description": "This lab can be performed in class during a pre-booked lab session or at home.",
+  "source": "@site/docs/Module3/Lab/HandsOnLab1.md",
+  "sourceDirName": "Module3/Lab",
+  "slug": "/Module3/Lab/HandsOnLab1",
+  "permalink": "/IEC61499-Curriculum/docs/Module3/Lab/HandsOnLab1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AIC3Lab/IEC61499-Curriculum/docs/Module3/Lab/HandsOnLab1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab",
+    "permalink": "/IEC61499-Curriculum/docs/category/lab"
+  },
+  "next": {
+    "title": "Task",
+    "permalink": "/IEC61499-Curriculum/docs/category/task"
+  }
+}

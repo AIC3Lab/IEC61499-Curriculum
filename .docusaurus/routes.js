@@ -39,19 +39,31 @@ export default [
   },
   {
     path: '/IEC61499-Curriculum/docs',
-    component: ComponentCreator('/IEC61499-Curriculum/docs', '943'),
+    component: ComponentCreator('/IEC61499-Curriculum/docs', '9f8'),
     routes: [
       {
         path: '/IEC61499-Curriculum/docs',
-        component: ComponentCreator('/IEC61499-Curriculum/docs', 'bfd'),
+        component: ComponentCreator('/IEC61499-Curriculum/docs', '35b'),
         routes: [
           {
             path: '/IEC61499-Curriculum/docs',
-            component: ComponentCreator('/IEC61499-Curriculum/docs', '233'),
+            component: ComponentCreator('/IEC61499-Curriculum/docs', '3dd'),
             routes: [
+              {
+                path: '/IEC61499-Curriculum/docs/category/lab',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/category/lab', 'ab7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/IEC61499-Curriculum/docs/category/lectures',
                 component: ComponentCreator('/IEC61499-Curriculum/docs/category/lectures', '338'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/IEC61499-Curriculum/docs/category/module-0',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/category/module-0', '272'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -74,14 +86,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/intro',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/intro', '870'),
+                path: '/IEC61499-Curriculum/docs/category/task',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/category/task', '6bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module1/presentation',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module1/presentation', 'f48'),
+                path: '/IEC61499-Curriculum/docs/Module0/pptx',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module0/pptx', 'fda'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/IEC61499-Curriculum/docs/Module0/video',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module0/video', '272'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/IEC61499-Curriculum/docs/Module1/pptx',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module1/pptx', '462'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -92,8 +116,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module2/presentation',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module2/presentation', '159'),
+                path: '/IEC61499-Curriculum/docs/Module1/video',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module1/video', 'ed5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/IEC61499-Curriculum/docs/Module2/pptx',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module2/pptx', '75b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -104,8 +134,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module3/Lab',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module3/Lab', '9dd'),
+                path: '/IEC61499-Curriculum/docs/Module2/video',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module2/video', '6cc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/IEC61499-Curriculum/docs/Module3/Lab/HandsOnLab1',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module3/Lab/HandsOnLab1', 'b08'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -164,8 +200,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/IEC61499-Curriculum/docs/Module3/Task',
-                component: ComponentCreator('/IEC61499-Curriculum/docs/Module3/Task', 'a67'),
+                path: '/IEC61499-Curriculum/docs/Module3/Task/Task1',
+                component: ComponentCreator('/IEC61499-Curriculum/docs/Module3/Task/Task1', 'f31'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
