@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# The Composite Function Block (CFB) in IEC 61499
+# The Composite Function Block in IEC 61499
 
 import YoutubeEmbed from '@site/src/components/YoutubeEmbedTemplate/YoutubeEmbed';
 
