@@ -6,28 +6,28 @@ sidebar_position: 1
 
 This lab can be performed in class during a pre-booked lab session (one per student) or at home.
 
-1.  # Objectives
+# Objectives
 
 1.  Getting a hands-on experience on EcoStruxure: how to create, compile, test, and modify a basic function block type.
-1.  Learning how to use an instance of a basic function block type in a composite function block type.
-1.  Testing and debugging basic function blocks and IEC 61499 applications.
-1.  Executing distributed remote application (FLASHER).
+2.  Learning how to use an instance of a basic function block type in a composite function block type.
+3.  Testing and debugging basic function blocks and IEC 61499 applications.
+4.  Executing distributed remote application (FLASHER).
 
-1.  # Expected outcome
+# Expected outcome
 
 Demonstrate the ability of running distributed applications in EcoStruxure Automation Expert.
 
-1.  ## Submission
+## Submission
 
 This lab guides you through the process of creating and running several function block applications within the solutions Tutorial and Flasher. Upon completion of the lab, you will need to submit the resulting solutions via MyCourses, first archived using EcoStruxure and then combined into a single ZIP archive.
 
-2.  ## Installation of EcoStruxure
+## Installation of EcoStruxure
 
 Installation of EcoStruxure Automation Expert software in Windows is supported by the corresponding installer packages. Please download and install the tool. The tool works only on Windows.
 
-3.  # Function Block Architecture: basic artifact
+# Function Block Architecture: basic artifact
 
-1.  ## Creating a new basic function block type in EcoStruxure
+## Creating a new basic function block type in EcoStruxure
 
 In EcoStruxure, one cannot simply create a function block type, but only within a solution that is a structure analogous to a project in other programming environments. Let us create a new solution. In the New Solution window, you can choose “EcoStruxure Automation Expert - Full Solution (Windows HMI)” and name it ‘Tutorial’ as shown in Figure 1(a), and click ‘Finish’ after you’ve enter your information (it might require to create a user with login and password) in the prompt ‘Properties’ window. Next in the solution explorer tree on the left, right click on ‘Basic’ and select ‘New Item’ from the context down menu as shown in Figure 1(b). In the prompt dialog assign name ‘X2Y2’ to this function block type.
 
@@ -129,7 +129,7 @@ Figure 8. Editing an ECC state.
 
 You can now test this new function block like before using the ‘Run’ option from the ‘Debug’ menu.
 
-2.  ## Create a composite function block type in EcoStruxure.
+## Create a composite function block type in EcoStruxure.
 
 Now, let us create a new, composite function block type named X2Y2_CMP as shown in Figure 9. For that, select ‘Composite’ element in the Solution Overview on the left, right click on it and select ‘New Item’. Then you need to perform the same actions as for creating a basic function block by giving it a name and define its interface as shown below.
 
@@ -164,9 +164,9 @@ Description automatically generated](/handsOnImages/Module3/images/image1.png)
 
 Figure 12. Adding standard FBs into a composite FB network.
 
-4.  # Advanced topics of Function Blocks
+# Advanced topics of Function Blocks
 
-1.  ## Creating an application and mapping a FB to a device/resource
+## Creating an application and mapping a FB to a device/resource
 
 As mentioned in the previous section, we cannot test the composite block in the debugger, so we will need to create a function block application and deploy and run it on a device (see section 3.3).
 
@@ -184,7 +184,7 @@ Description automatically generated](/handsOnImages/Module3/images/image3.png)
 
 Figure 14. The new device can also be added by dragging Soft_dPAC from the Device list in SE.DPAC located in Libraries section of the Solution Overview to the System window.
 
-2.  ## Creating an application and mapping a FB to a device/resource
+## Creating an application and mapping a FB to a device/resource
 
 The next lab topic will deal with the FLASHER system. The idea of the distributed FLASHER implementation is shown in Figure 15. Here, the microprocessor of the parameters’ input device reads all the input events and parameter values and then sends them to the recipient devices over the network. Another decision-making device receives these values and generates the values of “on/off” signals for each of the lamps, which are also published to the network. Finally, the output display, which in this case is a block of four LEDs (again with an embedded microprocessor) receives the values and displays them on the LEDs.
 
@@ -218,7 +218,7 @@ Description automatically generated](/handsOnImages/Module3/images/image7.png)
 
 Figure 18. Distribution of the FLASHER application across three devices.
 
-3.  ## Deployment and Running
+## Deployment and Running
 
 To deploy and test the solution on soft PLC running on local machine, do the follows:
 
